@@ -10,6 +10,7 @@ Purpose of this repo is to get the Solidity source code of the very first ERC-20
 ## Notes
 
 * [MistCoin token on Etherscan](https://etherscan.io/token/0xf4eced2f682ce333f96f2d8966c613ded8fc95dd)
+* You can use [this webpage](https://piyolab.github.io/playground/ethereum/getEncodedFunctionSignature/) to see the bytecode of a function. for example putting in `name()` converts to `06fdde03` (remove the `0x` part)
 
 ## Bytecode
 
