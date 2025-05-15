@@ -36,3 +36,6 @@ a9059cbb -> transfer(address,uint256)
 * Make sure you have nodejs installed
 * Make sure the `solc` dependency is installed (npm i)
 * Run `node deploy.js` to compile the contract `contracs/MyToken.sol`
+
+When successful you will see this text in the console:
+![Eureka](https://raw.githubusercontent.com/crypt0biwan/MistCoin/master/eureka.png)
