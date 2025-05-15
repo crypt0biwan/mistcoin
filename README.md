@@ -6,6 +6,7 @@ Purpose of this repo is to get the Solidity source code of the very first ERC-20
 * Compiler has to be Solidity <= 0.1.6 since the contract was deployed on November 3rd, 2015 and version 0.1.7 was release on November 17 2015. See [Solidity version history](https://github.com/ethereum/solidity/releases?page=10)
 * In [this Reddit post](https://www.reddit.com/r/ethereum/comments/3rcnrx/ethereum_wallet_beta3_contract_deployment_and/) which was exactly on the same date as the deployment of MistCoin Fabian included a link of the Mist wallet (version 0.3.5) and [release notes](https://github.com/ethereum/mist/releases/tag/0.3.5) on how to deploy a token.
 * [The token example](http://chriseth.github.io/browser-solidity/?gist=909d02feff3a2e59f714#gist=909d02feff3a2e59f714) which was used does contain all the methods of the MistCoin token. This example is included in the repo at `contracts/MyToken.sol`. However it doesn't compile to the bytecode of the MistCoin contract
+* [The sol contract](https://gist.github.com/frozeman/20c8b5658349b003b08d) is in this public gist
 
 ## Notes
 
