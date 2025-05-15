@@ -39,3 +39,8 @@ a9059cbb -> transfer(address,uint256)
 
 When successful you will see this text in the console:
 ![Eureka](https://raw.githubusercontent.com/crypt0biwan/MistCoin/master/eureka.png)
+
+Special thanks to:
+* avsa
+* feindura
+* Heisenburgirs
